@@ -125,10 +125,10 @@ export default function Home(props) {
   return (
     <>
       <Head>
-        <title>Next.js | Preview Mode</title>
+        <title>PACO Consulting | Java Spring Boot Microservices </title>
         <meta
           name="description"
-          content="This website demonstrates a static website generated using Next.js' new Static Site Generation (SSG)."
+          content="Java Spring Boot Microservices ."
         ></meta>
       </Head>
       {currentError && (

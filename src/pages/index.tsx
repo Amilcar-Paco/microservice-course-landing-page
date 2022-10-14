@@ -337,6 +337,9 @@ function Content({ isEdit, edits }: { isEdit: boolean; edits: FieldEdit[] }) {
           .
         </Malleable>
         <Malleable id="explanation-2" isActive={isEdit} edits={edits}>
+          Preço: 3, 000.00 MT
+        </Malleable>
+        <Malleable id="explanation-2" isActive={isEdit} edits={edits}>
           {' '}
           <a
             target="_blank"
